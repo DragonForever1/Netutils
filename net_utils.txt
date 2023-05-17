@@ -1,0 +1,31 @@
+End-User License Agreement for CyD Software Labs software products
+Please read this End-User License Agreement (EULA) carefully. By installing or using the software thar accompanies this EULA, you agree to the terms of this agreement. If you do not agree, do not use the software and, if not applicable, return it to the place of purchase for a full refund.
+
+CyD Software Labs software products do not transmit any personal identifiable information from your computer or serverto Heapar Software. Information may besent with your consent only. 
+
+
+--------------------------------------------------------------------------------
+
+General. This EULA is a legal agreement between you and CyD Software Labs. This EULA governs the software (includes computer software, online and electronic documentation) and any associated media or printed materials. This EULA applies to updates, supplements, add-on, plug-in and Internet-based services components of the Software that CyD Software Labs may provide or make available to you unless CyD Software Labs provides other terms. This EULA also governs any product support services relating to the Software except as may be included in another agreement between you and CyD Software Labs. The Software may contain the following:
+
+You may install only one copy of the Software on a single computer or server. Separate parts of the Software may not be used on more than one computer or server. An additional license is required if you install another copy of the software on the same computer or server whether in a separate partition, by using OS emulation software or otherwise or to install or run a copy of the software on a different computer or server.
+
+DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+Rights and Obligations. CyD Software Labs may provide you with product support services related to the Software. Use of any such support services is governed by the CyD Software Labs policies and programs described in the user manual, in online documentation, on CyD Software Labs's web site, or in other CyD Software Labs-provided materials. Any software CyD Software Labs may provide you as part of support services are governed by this EULA, unless separate terms are provided. This EULA does not obligate CyD Software Labs to provide any support services or to support any software provided as part of those services.
+
+Consent to Use of Data. You agree that CyD Software Labs and its affiliates may collect and use technical information gathered as part of the support services provided to you, if any, related to the Software. CyD Software Labs may use this information solely to improve our products or to provide customized services or technologies to you and will not disclose this information in a form that personally identifies you. 
+
+Upgrades. To use Software identified as an upgrade by CyD Software Labs, it is required that you be licensed for the software identified by CyD Software Labs as eligible for the upgrade. After upgrading, the software that formed the basis for your upgrade eligibility may no longer be used. The resulting upgraded Software may be used only in accordance with the terms of this EULA.
+
+Not for resale software. Software identified as "Not for Resale" or "NFR," may not be sold or otherwise transferred for value or used for any purpose other than demonstration, test or evaluation. 
+
+Academic Edition Software. To use Software identified as "Academic Edition" or "AE," you must be a "Qualified Educational User." For qualification-related questions, please contact the CyD Software Labs Sales team.
+
+Export Restrictions. You acknowledge that the Software is subject to U.S. export jurisdiction. You agree to comply with all applicable international and national laws that apply to the Software, including the U.S. Export Administration Regulations, as well as end-user,end-use, and destination restrictions issued by U.S. and other governments. 
+
+Internal software transfer. You may move the Software to a different computer or server as long as you permanently remove the software from the initial computer. 
+
+termination. Without prejudice to any other rights, CyD Software Labs may terminate this EULA if you are not in compliance with all the terms and conditions of this EULA. In such event, you must destroy all copies of the Software and all of its component parts. 
+
+LIMITED WARRANTY FOR SOFTWARE ACQUIRED IN THE US AND CANADA.
+CyD Software Labs warrants that the Software will perform substantially in accordance with the accompanying materials for a period of ninety (90) days from the date of receipt.
